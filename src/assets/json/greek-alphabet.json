@@ -1,0 +1,14 @@
+{
+  "letters": [
+    {
+      "name": "Alpha",
+      "alt": "Greek Alpha Letter",
+      "path": "assets/letters/lett-alpha.svg"
+    },
+    {
+      "name": "Beta",
+      "alt": "Greek Gamma Letter",
+      "path": "assets/letters/lett-beta.svg"
+    },
+  ]
+}

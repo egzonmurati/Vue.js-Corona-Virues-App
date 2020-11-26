@@ -1,0 +1,147 @@
+[
+       {
+        "Country": "Kosovo",
+        "NewCases": 765,
+        "Cases": 28616,
+        "NewDeath": 11,
+        "Deaths": 809,
+        "NewRecovered": 193,
+        "Recovered": 17055,
+        "ActiveCases": 10752,
+        "Date": "2020-11-14"
+      }, 
+     {
+        "Country": "Kosovo",
+        "NewCases": 501,
+        "Cases": 29117,
+        "NewDeath": 13,
+        "Deaths": 822,
+        "NewRecovered": 250,
+        "Recovered": 17305,
+        "ActiveCases": 10990,
+        "Date": "2020-11-15"
+    }, 
+    {
+        "Country": "Kosovo",
+        "NewCases": 688,
+        "Cases": 29805,
+        "NewDeath": 11,
+        "Deaths": 833,
+        "NewRecovered": 236,
+        "Recovered": 17541,
+        "ActiveCases": 11431,
+        "Date": "2020-11-16"
+    },
+    {
+        "Country": "Kosovo",
+        "NewCases": 690,
+        "Cases": 30495,
+        "NewDeath": 16,
+        "Deaths": 849,
+        "NewRecovered": 337,
+        "Recovered": 17878,
+        "ActiveCases": 11768,
+        "Date": "2020-11-17"
+    },
+    {
+        "Country": "Kosovo",
+        "NewCases": 720,
+        "Cases": 31215,
+        "NewDeath": 11,
+        "Deaths": 860,
+        "NewRecovered": 469,
+        "Recovered": 18347,
+        "ActiveCases": 12008,
+        "Date": "2020-11-18"
+    },
+    {
+        "Country": "Kosovo",
+        "NewCases": 807,
+        "Cases": 32022,
+        "NewDeath": 14,
+        "Deaths": 874,
+        "NewRecovered": 677,
+        "Recovered": 19024,
+        "ActiveCases": 12124,
+        "Date": "2020-11-19"
+    },
+    {
+        "Country": "Kosovo",
+        "NewCases": 855,
+        "NewRecovered": 748,
+        "NewDeath": 11,
+        "Cases": 32877,
+        "Deaths": 885,
+        "Recovered": 19772,
+        "ActiveCases": 12220,
+        "Date": "2020-11-20"
+    },
+     {
+        "Country": "Kosovo",
+        "NewCases": 711,
+        "NewRecovered": 721,
+        "NewDeath": 19,
+        "Cases": 33588,
+        "Deaths": 904,
+        "Recovered": 20493,
+        "ActiveCases": 12191,
+        "Date": "2020-11-21"
+    },
+     {
+        "Country": "Kosovo",
+        "NewCases": 707,
+        "NewRecovered": 550,
+        "NewDeath": 10,
+        "Cases": 34295,
+        "Deaths": 914,
+        "Recovered": 21043,
+        "ActiveCases": 12338,
+        "Date": "2020-11-22"
+    },
+     {
+        "Country": "Kosovo",
+        "NewCases": 645,
+        "NewRecovered": 353,
+        "NewDeath": 12,
+        "Cases": 34940,
+        "Deaths": 926,
+        "Recovered": 21396,
+        "ActiveCases": 12618,
+        "Date": "2020-11-23"
+    },
+     {
+        "Country": "Kosovo",
+        "NewCases": 609,
+        "NewRecovered": 350,
+        "NewDeath": 13,
+        "Cases": 35549,
+        "Deaths": 939,
+        "Recovered": 21746,
+        "ActiveCases": 12864,
+        "Date": "2020-11-24"
+    },
+     {
+        "Country": "Kosovo",
+        "NewCases": 704,
+        "NewRecovered": 391,
+        "NewDeath": 9,
+        "Cases": 36253,
+        "Deaths": 948,
+        "Recovered": 22137,
+        "ActiveCases": 13168,
+        "Date": "2020-11-25"
+    }, 
+    {
+        "Country": "Kosovo",
+        "NewCases": 775,
+        "NewRecovered": 553,
+        "NewDeath": 15,
+        "Cases": 37028,
+        "Deaths": 963,
+        "Recovered": 22690,
+        "ActiveCases": 1375,
+        "Date": "2020-11-26"
+    }
+    
+    
+]
