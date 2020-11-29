@@ -163,6 +163,18 @@
         "Recovered": 23754,
         "ActiveCases": 13688,
         "Date": "2020-11-28"
+    },
+
+    {
+        "Country": "Kosovo",
+        "NewCases": 626,
+        "NewRecovered": 673,
+        "NewDeath": 16,
+        "Cases": 39057,
+        "Deaths": 1005,
+        "Recovered": 24427,
+        "ActiveCases": 13625,
+        "Date": "2020-11-29"
     }
     
 ]
